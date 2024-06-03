@@ -20,3 +20,5 @@ Muokkaa tätä titteliä
 4.	Riipus (koru)
 
 Molemmissa taulukoissa ovat kaksi ensimmäistä riviä "jäädytetty" (frozen).
+
+Nyt B-sarakkeen, jossa on kappalemäärät, voi muistiinpanoihin lisätä jo varattuja numeroita erotettuna pilkulla.
